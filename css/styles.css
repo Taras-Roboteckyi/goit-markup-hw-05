@@ -82,6 +82,7 @@ body {
 
 .logo {
   margin-right: 93px;
+  animation-duration: 250ms;
 }
 
 .menu-item:not(:last-child) {
